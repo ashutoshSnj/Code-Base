@@ -1,10 +1,5 @@
-
-
-
-
-
 package start.build.CodingTest;
 
-public class Eight {
+public class Five {
 
 }
